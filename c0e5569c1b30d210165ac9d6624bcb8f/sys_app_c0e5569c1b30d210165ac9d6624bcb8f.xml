@@ -41,5 +41,6 @@
         <vendor/>
         <vendor_prefix/>
         <version>1.2.3</version>
+        development
     </sys_app>
 </record_update>
